@@ -25,3 +25,13 @@ JS Lec 3: https://www.youtube.com/watch?v=OCCpGh4ujb8
 JS Lec 4: https://www.youtube.com/watch?v=YBjufjBaxHo
 - strict equailty (type equality)
 - loose equality
+
+### 5. functions
+JS Lec 5: https://www.youtube.com/watch?v=e_lU39U-5bQ
+- function declare (anonymous, named)
+- arrow function
+
+### 6. Class, Object
+JS Lec 6: https://www.youtube.com/watch?v=_DLhUBWsRtw&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=6
+
+JS Lec 7: https://www.youtube.com/watch?v=1Lbr29tzAA8&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=7
